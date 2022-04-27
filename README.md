@@ -1,2 +1,3 @@
 # Computer_graphics_3
 ３年前期のコンピューターグラフィックスの講義用です。
+hello
